@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575425688 source:/home/sourabh/Documents/codeblocks /cpp/binary search /main.c
+	<stdio.h>
+	<stdlib.h>
+

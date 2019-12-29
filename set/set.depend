@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572942020 source:/home/sourabh/Documents/codeblocks /cpp/set/main.cpp
+	<iostream>
+	<set>
+	<iterator>
+
